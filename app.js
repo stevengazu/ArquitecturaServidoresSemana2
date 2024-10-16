@@ -9,7 +9,7 @@ const router = require("./config/routes.config");
 app.use("/api",router);
 
 
-const port = 3000;
+const port = 8000;
 app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
