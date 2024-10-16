@@ -16,7 +16,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"title\": \"noches2\",\r\n    \"text\": \"Buenos Dias\",\r\n    \"author\": \"Steven\"\r\n}",
+							"raw": "{\r\n    \"title\": \"noches3\",\r\n    \"text\": \"Buenos Dias\",\r\n    \"author\": \"Steven\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -64,7 +64,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8000/api/posts/670f2e39c22773ed6273e713",
+							"raw": "http://localhost:8000/api/posts/670f31fcc22773ed6273e719",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -73,7 +73,7 @@
 							"path": [
 								"api",
 								"posts",
-								"670f2e39c22773ed6273e713"
+								"670f31fcc22773ed6273e719"
 							]
 						}
 					},
@@ -86,7 +86,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"title\": \"noches\"\r\n}",
+							"raw": "{\r\n    \"author\": \"Steven Garro\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -94,7 +94,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8000/api/posts/670f2e39c22773ed6273e713",
+							"raw": "http://localhost:8000/api/posts/670f31fcc22773ed6273e719",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -103,7 +103,7 @@
 							"path": [
 								"api",
 								"posts",
-								"670f2e39c22773ed6273e713"
+								"670f31fcc22773ed6273e719"
 							]
 						}
 					},
@@ -115,7 +115,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8000/api/posts/123",
+							"raw": "http://localhost:8000/api/posts/670f2e39c22773ed6273e713",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -124,7 +124,7 @@
 							"path": [
 								"api",
 								"posts",
-								"123"
+								"670f2e39c22773ed6273e713"
 							]
 						}
 					},
